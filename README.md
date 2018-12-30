@@ -10,4 +10,4 @@ Some People Sending every word as message in whattsapp. it maskes chat window un
 
 
 ## example
-![Alt text](example.png?raw=true "Example")
+![Alt text](snap.png?raw=true "Example")
