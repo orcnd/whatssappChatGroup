@@ -7,3 +7,7 @@ Some People Sending every word as message in whattsapp. it maskes chat window un
 - copy your extracted data from whattsapp mobile to data.txt
 - change login password from index.php on line 4
 - enjoy
+
+
+## example
+![Alt text](example.png?raw=true "Example")
